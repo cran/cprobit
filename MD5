@@ -1,0 +1,14 @@
+7cb7d918a71f75f2f46a2b2deff4a2fa *DESCRIPTION
+4a3dd633d2412a729c19447d5327f519 *NAMESPACE
+0a3486534048f84de90b191e683f014a *R/cprobit.R
+a9e7de442c71f28aa4956ec8c1f92b83 *data/bg_variability.RData
+c9c0fa02fcffb6d033e09903e2450435 *man/bg_variability.Rd
+95edb869b8c1c1a964d644a59ec735ac *man/compile_est.Rd
+12bd03771e6fd316614aded44f9d0649 *man/cprobit.Rd
+0d410bf080615c519aa3d932c1fb117e *man/cprobit_step1.Rd
+4f8a184cfbf2a8cb3c5f140bab999bd3 *man/estimate_sd_error.Rd
+8bb03de89af638ed04eec04b862ef9fc *man/geom_mean.Rd
+04f460fd314a10bbf92d8c84d4b236c6 *man/get_v.Rd
+709a45410de3fcc92d7b16ca8a55eabc *man/make_design_mat.Rd
+1b009f975aa1b6ec1f8f464886d593cc *man/profile_llh.Rd
+533ecd6918d40bc1b83c3cf5aaa505bf *man/update_estimate.Rd
